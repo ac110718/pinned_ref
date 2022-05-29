@@ -1,0 +1,48 @@
+body {
+  background-color: lightgrey;
+  margin: auto;
+  margin: auto;
+  max-width: 70%;
+}
+.wrapper {
+  background-color: aqua;
+  overflow: hidden;
+  border: 1px solid white;
+  padding: 60;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1 {
+  font-size: 1.3rem;
+  padding: 10 5 5 5;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ff8c00;
+  border-bottom: 1px solid lightgray;
+}
+h2 {
+  font-size: 1rem;
+  padding: 0 0 0 5;
+  margin-top: -10;
+  color: lightslategray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration: none;
+  color: darkslategray;
+  font-variant-caps: all-small-caps;
+}
+a:hover {
+  color: orange;
+}
+p, li {
+  font-family: Georgia;
+  font-size: 0.7rem;
+  line-height: 1.5;
+  padding: 5 5 10 5;
+  border-bottom: 1px dotted lightgray;
+}
+p:hover, li:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+mark {
+  background-color: #ffffbf;
+}
