@@ -1,0 +1,11 @@
+/Users/allenchan/Github/pinned_ref/Email_Server_Rust/zero2prod/target/debug/deps/getrandom-dcde27275a878182.rmeta: /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/allenchan/Github/pinned_ref/Email_Server_Rust/zero2prod/target/debug/deps/getrandom-dcde27275a878182.d: /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs /Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs
+
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/lib.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/error_impls.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/util_libc.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/use_file.rs:
+/Users/allenchan/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.6/src/macos.rs:
