@@ -12,6 +12,7 @@ name = "zero2prod"
 
 [dev-dependencies]
 reqwest = "0.11"
+once_cell = "1"
 
 [dependencies]
 tracing-log = "0.1"
