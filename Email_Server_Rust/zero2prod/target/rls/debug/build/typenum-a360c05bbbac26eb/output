@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/allenchan/Github/pinned_ref/Email_Server_Rust/zero2prod/target/rls/debug/build/typenum-a360c05bbbac26eb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/allenchan/Github/pinned_ref/Email_Server_Rust/zero2prod/target/rls/debug/build/typenum-a360c05bbbac26eb/out/op.rs
