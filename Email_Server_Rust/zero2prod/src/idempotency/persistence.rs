@@ -26,15 +26,15 @@ pub async fn get_saved_response(
 ) -> Result<Option<HttpResponse>, anyhow::Error> {
     let saved_response = sqlx::query!(
         r#"
-    SELECT
-      response_status_code,
-      response_headers as "response_headers: Vec<HeaderPairRecord>",
-      response_body
-    FROM idempotency
-    WHERE
-      user_id = $1 AND
-      idempotency_key = $2
-    "#,
+        SELECT
+          response_status_code,
+          response_headers as "response_headers: Vec<HeaderPairRecord>",
+          response_body
+        FROM idempotency
+        WHERE
+          user_id = $1 AND
+          idempotency_key = $2
+        "#,
         user_id,
         idempotency_key.as_ref()
     )
@@ -72,16 +72,16 @@ pub async fn save_response(
     };
     sqlx::query_unchecked!(
         r#"
-      INSERT INTO idempotency (
-        user_id,
-        idempotency_key,
-        response_status_code,
-        response_headers,
-        response_body,
-        created_at
-      )
-      VALUES ($1, $2, $3, $4, $5, now())
-      "#,
+        INSERT INTO idempotency (
+          user_id,
+          idempotency_key,
+          response_status_code,
+          response_headers,
+          response_body,
+          created_at
+        )
+        VALUES ($1, $2, $3, $4, $5, now())
+        "#,
         user_id,
         idempotency_key.as_ref(),
         status_code,
